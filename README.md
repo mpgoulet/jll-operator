@@ -14,9 +14,9 @@ It is based on the [Webpack 3 example](https://github.com/Semantic-Org/Semantic-
 
 ## What's included
 
-:heavy_check_mark: Direct module imports to reduce bundle size
+:heavy_check_mark: Direct module imports to reduce bundle size  
 :heavy_check_mark: Hot module reloading  
-:heavy_check_mark: SEO optimizations (incl. Open Graph, Twitter and Google)
+:heavy_check_mark: SEO optimizations (incl. Open Graph, Twitter and Google)  
 :heavy_check_mark: The beautiful Inter UI font  
 :heavy_check_mark: Semantic UI React (duh!)  
 :heavy_check_mark: Tachyons for easy layouting
