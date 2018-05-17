@@ -2,11 +2,11 @@ import 'tachyons'
 import 'styling/semantic.less'
 
 import React from 'react'
-import { Button } from 'semantic-ui-react'
+import { Button, Icon } from 'semantic-ui-react'
 
 const App = () => <div className="min-vh-100 w-100 flex flex-column items-center justify-center">
     <div className="w-100 mw7">
-        <h1 class="lh-title">react-semantic-boilerplate</h1>
+        <h1 className="lh-title"><Icon name='home' /> react-semantic-boilerplate</h1>
 
         <p className="lh-copy">
             Hello there! If you're reading this it means that your Semantic UI React
