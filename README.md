@@ -2,7 +2,7 @@
     <img src="https://react.semantic-ui.com/logo.png" alt="Semantic UI React logo" align="center">
 </p>
 
-<h1 align="center">react-semantic-boilerplate</h1>
+<h1 align="center">jll-blackbox</h1>
 
 **NOTE: This project is not officially associated with Semantic UI and/or Facebook in any way. It is just a helpful boilerplate arranged by me.**
 
@@ -26,7 +26,7 @@ It is based on the [Webpack 3 example](https://github.com/Semantic-Org/Semantic-
 ### Installation
 
 First clone the repository to your computer by running  
-`git clone https://github.com/pretzelhands/react-semantic-boilerplate.git`
+`git clone https://github.com/pretzelhands/jll-blackbox.git`
 
 Then you need to install the required dependencies with  
 `yarn install` (**npm:** `npm install`)
@@ -61,7 +61,7 @@ And you're done! Your application/site is now optimized for sharing on social me
 
 ## Contributing
 
-Contributions in any form are welcome! If you find a bug, please [file an issue.](https://github.com/pretzelhands/react-semantic-boilerplate/issues) All contributors are asked to abide by the rules of the [Contributor Covenant.](./CODE_OF_CONDUCT.md)
+Contributions in any form are welcome! If you find a bug, please [file an issue.](https://github.com/pretzelhands/jll-blackbox/issues) All contributors are asked to abide by the rules of the [Contributor Covenant.](./CODE_OF_CONDUCT.md)
 
 ## Updates
 
